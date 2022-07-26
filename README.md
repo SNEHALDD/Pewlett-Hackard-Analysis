@@ -20,10 +20,13 @@ Fig: <img width="827" alt="Screen Shot 2022-07-25 at 11 39 28 PM" src="https://u
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Figure <img width="694" alt="Screen Shot 2022-07-25 at 11 43 51 PM" src="https://user-images.githubusercontent.com/106944351/180925015-cf801ad3-3124-495a-a2d8-381cb382b260.png"> shows that these many people are retiring and management should start the hiring people soon.
+Figure shows that these many people are retiring and management should start the hiring people soon.
+<img width="694" alt="Screen Shot 2022-07-25 at 11 43 51 PM" src="https://user-images.githubusercontent.com/106944351/180925015-cf801ad3-3124-495a-a2d8-381cb382b260.png"> 
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Retirind title table  <img width="694" alt="Screen Shot 2022-07-25 at 11 43 51 PM" src="https://user-images.githubusercontent.com/106944351/180925015-cf801ad3-3124-495a-a2d8-381cb382b260.png"> explains how many employees are retiring and yes, there are enough qualified employees will be there to mentor the next generation.
+Retirind title table  
+<img width="694" alt="Screen Shot 2022-07-25 at 11 43 51 PM" src="https://user-images.githubusercontent.com/106944351/180925015-cf801ad3-3124-495a-a2d8-381cb382b260.png"> 
+explains how many employees are retiring and yes, there are enough qualified employees will be there to mentor the next generation.
 
 ### Additional queries - We can find out how many people are retiring from each and every department so that manager will have an idea about futrue resource management.
 We can find out how many poeple are getting retired in next few years. So that,we use help of those soon to be retired people in mentorship or training program if we are lacking number of people in mentorship programs.
