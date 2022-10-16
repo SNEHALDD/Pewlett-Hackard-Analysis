@@ -7,7 +7,7 @@ The purpose of this project is to conduct a Database analysis for Pewlett Hackar
 I determined the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
  
 ## Results: 
-1) I Gathered information about the Number of Retiring Employees by Title. The results is shown below. 
+1) I Gathered information about the Number of Retiring Employees by Title. The results are shown below. 
 Fig: <img width="694" alt="Screen Shot 2022-07-25 at 11 43 51 PM" src="https://user-images.githubusercontent.com/106944351/180925015-cf801ad3-3124-495a-a2d8-381cb382b260.png">
 
 2) The above table gives duplicate values as employees have changed their teams or titles over the years. I used DISTINCT ON () to get unique values as in only most recent title of each employee.
