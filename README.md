@@ -4,7 +4,7 @@ Report on "silver tsunami."
 ## Overview of the analysis: Explain the purpose of this analysis.
 The purpose of this project is to conduct a Database analysis for Pewlett Hackard with detailed information on the number of future retirees from all departments currently working at the company to be able to prepare a plan to hire new staff and also to prepare a mentorship initiative.
 
-Determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
+I determined the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
  
 ## Results: 
 1) I Gathered information about the Number of Retiring Employees by Title. The results is shown below. 
